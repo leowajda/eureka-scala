@@ -1,0 +1,3 @@
+|                             Name                             |                                                                Scala                                                                |
+|:------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| [Binary Search](https://leetcode.com/problems/binary-search) | [:arrows_counterclockwise:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/BinarySearch.scala) |
