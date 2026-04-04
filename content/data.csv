@@ -11,4 +11,5 @@ Name,Scala
 [Move Zeroes](https://leetcode.com/problems/move-zeroes),[:arrows_counterclockwise:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/MoveZeroes.scala)
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array),[:arrows_counterclockwise:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/RemoveDuplicatesFromSortedArray.scala)
 [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted),[:arrows_counterclockwise:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/TwoSumInputArrayIsSorted.scala)
+[Unique Paths](https://leetcode.com/problems/unique-paths),[:arrow_right_hook:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/iterative/UniquePaths.scala)
 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome),[:arrows_counterclockwise:](https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/string/recursive/ValidPalindrome.scala)
