@@ -1,0 +1,112 @@
+problems:
+  balanced-binary-tree:
+    name: Balanced Binary Tree
+    url: https://leetcode.com/problems/balanced-binary-tree
+    difficulty: Easy
+    categories:
+    - Tree
+    - Depth-First Search
+    - Binary Tree
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/tree/recursive/BalancedBinaryTree.scala
+  binary-search:
+    name: Binary Search
+    url: https://leetcode.com/problems/binary-search
+    difficulty: Easy
+    categories:
+    - Array
+    - Binary Search
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/BinarySearch.scala
+  container-with-most-water:
+    name: Container With Most Water
+    url: https://leetcode.com/problems/container-with-most-water
+    difficulty: Medium
+    categories:
+    - Array
+    - Two Pointers
+    - Greedy
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/ContainerWithMostWater.scala
+  find-all-anagrams-in-a-string:
+    name: Find All Anagrams in a String
+    url: https://leetcode.com/problems/find-all-anagrams-in-a-string
+    difficulty: Medium
+    categories:
+    - Hash Table
+    - String
+    - Sliding Window
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/string/recursive/FindAllAnagramsInAString.scala
+  letter-combinations-of-a-phone-number:
+    name: Letter Combinations of a Phone Number
+    url: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+    difficulty: Medium
+    categories:
+    - Hash Table
+    - String
+    - Backtracking
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/string/recursive/LetterCombinationsOfAPhoneNumber.scala
+  longest-substring-without-repeating-characters:
+    name: Longest Substring Without Repeating Characters
+    url: https://leetcode.com/problems/longest-substring-without-repeating-characters
+    difficulty: Medium
+    categories:
+    - Hash Table
+    - String
+    - Sliding Window
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/string/recursive/LongestSubstringWithoutRepeatingCharacters.scala
+  lowest-common-ancestor-of-a-binary-search-tree:
+    name: Lowest Common Ancestor of a Binary Search Tree
+    url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+    difficulty: Medium
+    categories:
+    - Tree
+    - Depth-First Search
+    - Binary Search Tree
+    - Binary Tree
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/tree/recursive/LowestCommonAncestorOfABinarySearchTree.scala
+  maximum-depth-of-binary-tree:
+    name: Maximum Depth of Binary Tree
+    url: https://leetcode.com/problems/maximum-depth-of-binary-tree
+    difficulty: Easy
+    categories:
+    - Tree
+    - Depth-First Search
+    - Breadth-First Search
+    - Binary Tree
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/tree/recursive/MaximumDepthOfBinaryTree.scala
+  middle-of-the-linked-list:
+    name: Middle of the Linked List
+    url: https://leetcode.com/problems/middle-of-the-linked-list
+    difficulty: Easy
+    categories:
+    - Linked List
+    - Two Pointers
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/linked_list/recursive/MiddleOfTheLinkedList.scala
+  move-zeroes:
+    name: Move Zeroes
+    url: https://leetcode.com/problems/move-zeroes
+    difficulty: Easy
+    categories:
+    - Array
+    - Two Pointers
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/MoveZeroes.scala
+  remove-duplicates-from-sorted-array:
+    name: Remove Duplicates from Sorted Array
+    url: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+    difficulty: Easy
+    categories:
+    - Array
+    - Two Pointers
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/RemoveDuplicatesFromSortedArray.scala
+  two-sum-ii---input-array-is-sorted:
+    name: Two Sum II - Input Array Is Sorted
+    url: https://leetcode.com/problems/two-sum-ii---input-array-is-sorted
+    difficulty: ''
+    categories: []
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/TwoSumInputArrayIsSorted.scala
+  valid-palindrome:
+    name: Valid Palindrome
+    url: https://leetcode.com/problems/valid-palindrome
+    difficulty: Easy
+    categories:
+    - Two Pointers
+    - String
+    recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/string/recursive/ValidPalindrome.scala
