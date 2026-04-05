@@ -96,12 +96,24 @@ problems:
     - Array
     - Two Pointers
     recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/RemoveDuplicatesFromSortedArray.scala
-  two-sum-ii---input-array-is-sorted:
+  two-sum-ii-input-array-is-sorted:
     name: Two Sum II - Input Array Is Sorted
-    url: https://leetcode.com/problems/two-sum-ii---input-array-is-sorted
-    difficulty: ''
-    categories: []
+    url: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+    difficulty: Medium
+    categories:
+    - Array
+    - Two Pointers
+    - Binary Search
     recursive: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/recursive/TwoSumInputArrayIsSorted.scala
+  unique-paths:
+    name: Unique Paths
+    url: https://leetcode.com/problems/unique-paths
+    difficulty: Medium
+    categories:
+    - Math
+    - Dynamic Programming
+    - Combinatorics
+    iterative: https://github.com/leowajda/eureka-scala/blob/master/src/main/scala/array/iterative/UniquePaths.scala
   valid-palindrome:
     name: Valid Palindrome
     url: https://leetcode.com/problems/valid-palindrome
